@@ -2,7 +2,7 @@
 
 A curated list of papers and code on delay-network-based artificial reverberation. This repository collects references and implementations for Feedback Delay Networks (FDN) and Scattering Delay Networks (SDN). It is a living resource and will be updated as new work appears.
 
-Note: This repository has been made public on Friday, November 14t,h 2025. You should expect it to grow in the following days. 
+Note: This repository has been made public on Friday, November 14th, 2025. You should expect it to grow in the following days. 
 
 ## **Feedback Delay Networks** 
 | **Reference** | **Year** | **Content Type** | **Main Contributions** | **Code** | **Notes** |
@@ -29,7 +29,7 @@ Note: This repository has been made public on Friday, November 14t,h 2025. You s
 | Mezza, A. I., Giampiccolo, R., De Sena, E., & Bernardini, A. Data-driven room acoustic modeling via differentiable feedback delay networks with learnable delay lines. EURASIP Journal on Audio, Speech, and Music Processing, 2024(1), 51. | 2024 | Parameter optimization | Presents a method for optimizing FDN parameters based on the lumped-element model. Introduces the echo density profile loss to optimize delay lines along with the other FDN parameters. | .. | .. |
 | Mezza, A. I., Giampiccolo, R., & Bernardini, A. (2024). Modeling the frequency-dependent sound energy decay of acoustic environments with differentiable feedback delay networks. In Proceedings of the 27th International Conference on Digital Audio Effects (DAFx24) (pp. 238-245). | 2024 | Parameter optimization | Extends the author's previous work to frequency-dependent FDNs. | .. | .. |
 | Dal Santo, G., Prawda, K., Schlecht, S. J., and Välimäki, V. "Optimizing tiny colorless feedback delay networks," EURASIP Journal on Audio, Speech, and Music Processing, 2025(1), 13. | 2025 | Parameter optimization | Improved the previous colorless FDN work by making the optimization iFFT-free. | [diff-fdn-colorless](https://github.com/gdalsanto/diff-fdn-colorless/tree/main) | Online [audio examples](http://research.spa.aalto.fi/publications/papers/eurasip-colorless-fdn/) available | (GitHub) 
-| I. Ibnyahya, and J. Reiss. "Differentiable Attenuation Filters for Feedback Delay Networks." 28th International Conference on Digital Audio Effects (DAFx25), 2025. | 2025 | Attenuation filters optimization | Optimization of a parameteric equilizer with the aim of reducing the nunber of requiered second-order sections. | [irr_match](ttps://github.com/ilias-audio/iir_match) | ..
+| I. Ibnyahya, and J. Reiss. "Differentiable Attenuation Filters for Feedback Delay Networks." 28th International Conference on Digital Audio Effects (DAFx25), 2025. | 2025 | Attenuation filters optimization | Optimization of a parameteric equilizer to reduce the number of required second-order sections. | [irr_match](https://github.com/ilias-audio/iir_match) | ..
 | Götz, P., Santo, G. D., Schlecht, S. J., Välimäki, V., & Habets, E. A. (2025). Matching Reverberant Speech Through Learned Acoustic Embeddings and Feedback Delay Networks. arXiv preprint arXiv:2510.23158. | Under review | Parameter estimation | Present a parameter estimation network to solve the reverberant signal matching task with a differentiable FDN. | .. | Online [audio examples](https://www.audiolabs-erlangen.de/resources/2026-ICASSP-RMS) available  
 
 ### **FDNs for Spatial Audio**
