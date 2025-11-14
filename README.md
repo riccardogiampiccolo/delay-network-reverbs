@@ -44,8 +44,8 @@ Note: This repository has been made public on Friday November 14th 2025. You sho
 |
 | **Machine Learning Optimiation**
 |
-| .. | .. | .. | .. | .. | .. | 
-| .. | .. | .. | .. | .. | .. | 
+| Giampiccolo, R., Mezza, A. I., & Bernardini, A. "Differentiable MIMO Feedback Delay Networks for Multichannel Room Impulse Response Modeling," In Proceedings of the 27th International Conference on Digital Audio Effects (DAFx24) (pp. 278-285). | 2024 | .. | .. | .. | .. | 
+| Giampiccolo, R., Mezza, A. I., Pezzoli, M., Koyama, S., Bernardini, A., & Antonacci, F., "Modeling the Impulse Response of Higher-Order Microphone Arrays using Differentiable Feedback Delay Networks", In Proceedings of the International Conference on Digital Audio Effects (DAFx25) (pp. 180-187). | 2025 | .. | .. | .. | .. | 
 | .. | .. | .. | .. | .. | .. | 
 
 ### Toolboxes and libraries
@@ -63,7 +63,11 @@ Note: This repository has been made public on Friday November 14th 2025. You sho
 | L. Vinceslas, M. Scerbo, H. Hacıhabiboğlu, Z. Cvetković & E. De Sena. "Low-Complexity Higher Order Scattering Delay Networks." IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA). | .. | .. | .. | .. | .. | 
 | .. | .. | .. | .. | .. | .. | 
 | .. | .. | .. | .. | .. | .. | 
-
+| 
+| **Machine Learning Optimization**
+|
+| Mezza, A. I., Riccardo G., and Alberto B., "Differentiable Scattering Delay Networks for Artificial Reverberation." Proceedings of the International Conference on Digital Audio Effects (DAFx25). 2025. | 2025 | .. | .. |
+| .. | .. | .. | .. | .. | .. | 
 
 ## Early Reverbs
 | **Reference** | **Year** | **Notes** |
@@ -83,7 +87,13 @@ Note: This repository has been made public on Friday November 14th 2025. You sho
 
 ### Other resources
 
-- Sean Costello's "Getting started with reverb design" (ValhallaDSP blog). https://valhalladsp.com/2021/09/22/getting-started-with-reverb-design-part-2-the-foundations/
+- "Efficient Reverb Rendering for Auditory Scenes" by Jean Marc Jot [DAFx17 Tutorial](https://youtu.be/C_bxtks51-A?si=x_BPDsJtgBdcPDL5)
+- Sean Costello's "Getting started with reverb design" [ValhallaDSP blog](https://valhalladsp.com/2021/09/22/getting-started-with-reverb-design-part-2-the-foundations/). 
+- "Let's Write a Reverb" by Geraint Luff  [ADC 21](https://youtu.be/6ZK2Goiyotk?si=XysVxnFTHcDsqNJV)
+- "Feedback Delay Networks for Artificial Reverberation" by Sebastian J. Schlecht [CCRMA seminars 22](https://youtu.be/gRiZX7C6zJo?si=FlxqVlEkYb_WVqQE)
+- "Odd Challenges of Using Deep Learning in Designing a Feedback Delay Network Reverb" by Wojciech Kacper Werkowicz and Benjamin Whateley [ADC 23](https://youtu.be/5URLvwFmlb0?si=3VOe2wKouemxzxCP)
+- "Building Flexible Audio DDSP Pipelines: A Case Study on Artificial Reverb" by Gloria Dal Santo [DAFx25 Tutorial](https://github.com/gdalsanto/dafx25-ddsp-tutorial)
+
 
 ### Acknowledgements
 
