@@ -61,7 +61,7 @@ Note: This repository has been made public on Friday, November 14th, 2025. You s
 | .. | .. | .. | .. | .. | .. | 
 | .. | .. | .. | .. | .. | .. | 
 | **Machine Learning Optimization**
-| A. I. Mezza, R. Giampiccolo, E. De Sena, and A. Bernardini, "Differentiable Scattering Delay Networks for Artificial Reverberation." Proceedings of the International Conference on Digital Audio Effects (DAFx25). 2025. | 2025 | Presents a methodology for the optimization of SDN parameters to account for variability in geometry and/or floor plan and match the time-frequency decay of sound energy. | .. | Code available [here](https://github.com/ilic-mezza/differentiable-sdn) | .. |
+| A. I. Mezza, R. Giampiccolo, E. De Sena, and A. Bernardini, "Differentiable Scattering Delay Networks for Artificial Reverberation." Proceedings of the International Conference on Digital Audio Effects (DAFx25). 2025. | 2025 | Informed and optimized | .. | Code available [here](https://github.com/ilic-mezza/differentiable-sdn) | Presents a methodology for the optimization of SDN parameters to account for variability in geometry and/or floor plan and match the time-frequency decay of sound energy. |
 | .. | .. | .. | .. | .. | .. | 
 
 ## Early Reverbs and FDN Theory
